@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/it2121/OCR/">
-    <img src="icon.png" alt="Logo" width="380" height="380">
+    <img src="icon.png" alt="Logo" width="210" height="210">
   </a>
 
   <h3 align="center">OCR</h3>
@@ -19,7 +19,9 @@ Desktop application for extracting text from images
 
 
 </br>
- <img src="1.png"></img>
+ <img src="p1.png"></img>
+ </br>
+  <img src="p2.png"></img>
  </br>
 
 
